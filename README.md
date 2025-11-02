@@ -67,6 +67,5 @@ Enhanced practical knowledge of *web security concepts, real-world **penetration
 
 Author
 Nandhitha V N 
----
 
 ## 🧱 Project Structure
